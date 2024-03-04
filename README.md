@@ -8,7 +8,7 @@ SSR梯子推荐,SSR机场,便宜付费梯子推荐,V2Ray机场节点,V2Ray机场
 
 以下是这个稳定便宜梯子部分购买记录：
 
-![](https://s2.loli.net/2023/10/16/foUTbAn6wzrueck.png)
+![](https://s2.loli.net/2023/10/21/9MJ6jEblcLRWTyk.jpg)
 
 通过这些购买记录，你也可以看到这两年我一直在陆续使用这个V2ray机场梯子，因为确实稳定好用速度快，给我的工作生活提供了不少帮助。
 
