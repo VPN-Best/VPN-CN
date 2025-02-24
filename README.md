@@ -4,7 +4,7 @@ SSR梯子推荐,SSR机场,便宜付费梯子推荐,V2Ray机场节点,V2Ray机场
 
 **我不进行翻墙vpn梯子推荐或评测，只是记录了一下续费购买这个付费V2ray机场梯子的过程以及长达两年的真实使用体验。这家老牌的V2Ray、SSR付费[节点机场梯子](https://alipjj.github.io/tizi/)，我已经使用了两年多了，从价格、流量和速度稳定性考虑，性价比高一直是我最佳的选择，所以一直没有更换。**
 
-![](https://s2.loli.net/2023/10/21/9MJ6jEblcLRWTyk.jpg)
+![](https://www.cnvintage.org/assets/files/2025-02-24/1740372201-311626-image.png)
 
 
 [**点击官方网站**](https://go.1vpn.cc/ewan)
@@ -72,5 +72,5 @@ IPLC专线节点；
 **轻量应用-多快好省**
 #### [**点击传送2号梯子「月租12元」**](https://go.1vpn.cc/nisi)
 **中度应用-流量充沛**
-#### [**点击传送3号梯子「月租20元」**](https://go.1vpn.cc/xxfeng)
+#### [**点击传送3号梯子「月租14元」**](https://go.1vpn.cc/uxin)
 **重度应用-高速稳定**
